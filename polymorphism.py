@@ -54,3 +54,5 @@ class Employee(Person):
             print("salary=",self.esal)
 e1=Employee("Aditi",20,101,70000)
 e1.display()
+print("one line added")
+print("two lines added")
